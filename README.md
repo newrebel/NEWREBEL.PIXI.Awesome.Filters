@@ -1,0 +1,2 @@
+# NEWREBEL.PIXI.Awesome.Filters
+I'm creating this repository to make it possible for me to start adding some awesome filters, based on (custom) GLSL-Fragment and Vertex-shaders. At the moment these kind of filters seem not to exist for PIXI. And I see people struggling width certain aspects in Pixi4.  You'd be amazed that some 3D (mimic) in PIXI's 2D environment is possible. And how usable crazy effects can be.
