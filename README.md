@@ -66,7 +66,7 @@ npm run start
 ```
 After build you can do:
 ```bash
-import AudioTexture from './GLSL-audio-texture'
+import AudioTexture from 'GLSL-audio-texture'
 ```
 It's also possible to simply use:
 ```bash
